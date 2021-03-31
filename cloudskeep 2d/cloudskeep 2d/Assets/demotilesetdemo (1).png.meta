@@ -1,0 +1,5362 @@
+fileFormatVersion: 2
+guid: 4b5cc216043696a429f00bebf99c6b27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9216796031442625015
+    second: demotilesetdemo (1)_0
+  - first:
+      213: -8778066278393328706
+    second: demotilesetdemo (1)_1
+  - first:
+      213: 2208912986341799439
+    second: demotilesetdemo (1)_2
+  - first:
+      213: -5438319018332263090
+    second: demotilesetdemo (1)_3
+  - first:
+      213: 6811632082975405083
+    second: demotilesetdemo (1)_4
+  - first:
+      213: 5323756589166215927
+    second: demotilesetdemo (1)_5
+  - first:
+      213: -1610374311338148029
+    second: demotilesetdemo (1)_6
+  - first:
+      213: -1924450982724527393
+    second: demotilesetdemo (1)_7
+  - first:
+      213: 7003765841664912087
+    second: demotilesetdemo (1)_8
+  - first:
+      213: -593247935095838854
+    second: demotilesetdemo (1)_9
+  - first:
+      213: 6048162211984308167
+    second: demotilesetdemo (1)_10
+  - first:
+      213: -4409831667755164035
+    second: demotilesetdemo (1)_11
+  - first:
+      213: -498933110375277710
+    second: demotilesetdemo (1)_12
+  - first:
+      213: -8994136678963727996
+    second: demotilesetdemo (1)_13
+  - first:
+      213: -8115461725682089189
+    second: demotilesetdemo (1)_14
+  - first:
+      213: 7871667797813859912
+    second: demotilesetdemo (1)_15
+  - first:
+      213: -7314871760069102848
+    second: demotilesetdemo (1)_16
+  - first:
+      213: -3407033197048839305
+    second: demotilesetdemo (1)_17
+  - first:
+      213: -130744274738469619
+    second: demotilesetdemo (1)_18
+  - first:
+      213: 7626803825103221388
+    second: demotilesetdemo (1)_19
+  - first:
+      213: -4339556849697332179
+    second: demotilesetdemo (1)_20
+  - first:
+      213: -7120835709057098803
+    second: demotilesetdemo (1)_21
+  - first:
+      213: 5154272584773880133
+    second: demotilesetdemo (1)_22
+  - first:
+      213: 2052394046297929679
+    second: demotilesetdemo (1)_23
+  - first:
+      213: -3839760937272484672
+    second: demotilesetdemo (1)_24
+  - first:
+      213: 6068247935313054688
+    second: demotilesetdemo (1)_25
+  - first:
+      213: -4493571336226330772
+    second: demotilesetdemo (1)_26
+  - first:
+      213: 4744877693453236596
+    second: demotilesetdemo (1)_27
+  - first:
+      213: 3923585218857391005
+    second: demotilesetdemo (1)_28
+  - first:
+      213: -8974572834514099106
+    second: demotilesetdemo (1)_29
+  - first:
+      213: 2643380375808721519
+    second: demotilesetdemo (1)_30
+  - first:
+      213: 7154270255411060141
+    second: demotilesetdemo (1)_31
+  - first:
+      213: -8144404381309803822
+    second: demotilesetdemo (1)_32
+  - first:
+      213: -7341732448807340614
+    second: demotilesetdemo (1)_33
+  - first:
+      213: 4238670867210112258
+    second: demotilesetdemo (1)_34
+  - first:
+      213: 291481973087223806
+    second: demotilesetdemo (1)_35
+  - first:
+      213: -7907426040364940918
+    second: demotilesetdemo (1)_36
+  - first:
+      213: -7054013354036074333
+    second: demotilesetdemo (1)_37
+  - first:
+      213: 2330036166970085066
+    second: demotilesetdemo (1)_38
+  - first:
+      213: 8732566091443065204
+    second: demotilesetdemo (1)_39
+  - first:
+      213: -75797147991208759
+    second: demotilesetdemo (1)_40
+  - first:
+      213: 259485804072978266
+    second: demotilesetdemo (1)_41
+  - first:
+      213: -7727302268099928629
+    second: demotilesetdemo (1)_42
+  - first:
+      213: -6573093667999620217
+    second: demotilesetdemo (1)_43
+  - first:
+      213: 1777579070893384069
+    second: demotilesetdemo (1)_44
+  - first:
+      213: -7290911808032007996
+    second: demotilesetdemo (1)_45
+  - first:
+      213: -5775705072427621557
+    second: demotilesetdemo (1)_46
+  - first:
+      213: 6960858585468863312
+    second: demotilesetdemo (1)_47
+  - first:
+      213: 5692441802175741120
+    second: demotilesetdemo (1)_48
+  - first:
+      213: -7840025904949000302
+    second: demotilesetdemo (1)_49
+  - first:
+      213: -5164684805140062913
+    second: demotilesetdemo (1)_50
+  - first:
+      213: -8314752075427741347
+    second: demotilesetdemo (1)_51
+  - first:
+      213: 4894432837241052277
+    second: demotilesetdemo (1)_52
+  - first:
+      213: -5268060561892296853
+    second: demotilesetdemo (1)_53
+  - first:
+      213: -1079308222378026412
+    second: demotilesetdemo (1)_54
+  - first:
+      213: 8398767979793867102
+    second: demotilesetdemo (1)_55
+  - first:
+      213: 3191518729355158838
+    second: demotilesetdemo (1)_56
+  - first:
+      213: -1257688504788854561
+    second: demotilesetdemo (1)_57
+  - first:
+      213: 9157492790935023937
+    second: demotilesetdemo (1)_58
+  - first:
+      213: 4328866682999364586
+    second: demotilesetdemo (1)_59
+  - first:
+      213: -7362361115208567467
+    second: demotilesetdemo (1)_60
+  - first:
+      213: -7237798439409346137
+    second: demotilesetdemo (1)_61
+  - first:
+      213: -6939089432687267880
+    second: demotilesetdemo (1)_62
+  - first:
+      213: -4480549375663875400
+    second: demotilesetdemo (1)_63
+  - first:
+      213: 6196991927651642029
+    second: demotilesetdemo (1)_64
+  - first:
+      213: -7507722559008981631
+    second: demotilesetdemo (1)_65
+  - first:
+      213: 7255364447735318717
+    second: demotilesetdemo (1)_66
+  - first:
+      213: -2386943891315089353
+    second: demotilesetdemo (1)_67
+  - first:
+      213: -6075814939500454966
+    second: demotilesetdemo (1)_68
+  - first:
+      213: -8927111384056730006
+    second: demotilesetdemo (1)_69
+  - first:
+      213: 7490877316854317357
+    second: demotilesetdemo (1)_70
+  - first:
+      213: -4948400995348864886
+    second: demotilesetdemo (1)_71
+  - first:
+      213: 1060807189660429290
+    second: demotilesetdemo (1)_72
+  - first:
+      213: -1127499310225930836
+    second: demotilesetdemo (1)_73
+  - first:
+      213: 9101834395573891091
+    second: demotilesetdemo (1)_74
+  - first:
+      213: 2132679315805242838
+    second: demotilesetdemo (1)_75
+  - first:
+      213: 2672850756870807672
+    second: demotilesetdemo (1)_76
+  - first:
+      213: 1451107078440549051
+    second: demotilesetdemo (1)_77
+  - first:
+      213: 3043414341700530118
+    second: demotilesetdemo (1)_78
+  - first:
+      213: -422166998418195981
+    second: demotilesetdemo (1)_79
+  - first:
+      213: -4342922352544253016
+    second: demotilesetdemo (1)_80
+  - first:
+      213: 2612017387267081279
+    second: demotilesetdemo (1)_81
+  - first:
+      213: -8093682324933743759
+    second: demotilesetdemo (1)_82
+  - first:
+      213: -7164541931572292501
+    second: demotilesetdemo (1)_83
+  - first:
+      213: 8620060937228046874
+    second: demotilesetdemo (1)_84
+  - first:
+      213: -6843257727413412176
+    second: demotilesetdemo (1)_85
+  - first:
+      213: 1282744027772369411
+    second: demotilesetdemo (1)_86
+  - first:
+      213: -8901099354915754217
+    second: demotilesetdemo (1)_87
+  - first:
+      213: 7940528932828584108
+    second: demotilesetdemo (1)_88
+  - first:
+      213: 5186492601260088983
+    second: demotilesetdemo (1)_89
+  - first:
+      213: 5095053123160298542
+    second: demotilesetdemo (1)_90
+  - first:
+      213: 4753598568842495143
+    second: demotilesetdemo (1)_91
+  - first:
+      213: 8827130704501662565
+    second: demotilesetdemo (1)_92
+  - first:
+      213: -9198076472735962118
+    second: demotilesetdemo (1)_93
+  - first:
+      213: -1742915669212485713
+    second: demotilesetdemo (1)_94
+  - first:
+      213: 6747860499263840715
+    second: demotilesetdemo (1)_95
+  - first:
+      213: -5651898926284115068
+    second: demotilesetdemo (1)_96
+  - first:
+      213: 4853613704834691995
+    second: demotilesetdemo (1)_97
+  - first:
+      213: -943624892077432176
+    second: demotilesetdemo (1)_98
+  - first:
+      213: -8653146283567269061
+    second: demotilesetdemo (1)_99
+  - first:
+      213: 7461033104416540071
+    second: demotilesetdemo (1)_100
+  - first:
+      213: -6114655222688534400
+    second: demotilesetdemo (1)_101
+  - first:
+      213: -4140832593342818004
+    second: demotilesetdemo (1)_102
+  - first:
+      213: -2985147553597983836
+    second: demotilesetdemo (1)_103
+  - first:
+      213: -7164917361491976225
+    second: demotilesetdemo (1)_104
+  - first:
+      213: 4276722254028569112
+    second: demotilesetdemo (1)_105
+  - first:
+      213: 6960422567275283164
+    second: demotilesetdemo (1)_106
+  - first:
+      213: 40021883940775244
+    second: demotilesetdemo (1)_107
+  - first:
+      213: -906451785934311898
+    second: demotilesetdemo (1)_108
+  - first:
+      213: 1855233542142469992
+    second: demotilesetdemo (1)_109
+  - first:
+      213: 1366001550739739585
+    second: demotilesetdemo (1)_110
+  - first:
+      213: -5670444292462054593
+    second: demotilesetdemo (1)_111
+  - first:
+      213: -8516600197932267553
+    second: demotilesetdemo (1)_112
+  - first:
+      213: 4574282153929096844
+    second: demotilesetdemo (1)_113
+  - first:
+      213: 7834823936002983986
+    second: demotilesetdemo (1)_114
+  - first:
+      213: 5927271301452886219
+    second: demotilesetdemo (1)_115
+  - first:
+      213: -6254084043897216463
+    second: demotilesetdemo (1)_116
+  - first:
+      213: -1492323910551258600
+    second: demotilesetdemo (1)_117
+  - first:
+      213: -8523854540319507138
+    second: demotilesetdemo (1)_118
+  - first:
+      213: 858821089322985057
+    second: demotilesetdemo (1)_119
+  - first:
+      213: 4696465303196257074
+    second: demotilesetdemo (1)_120
+  - first:
+      213: -8645525251355123916
+    second: demotilesetdemo (1)_121
+  - first:
+      213: -8836859723830698758
+    second: demotilesetdemo (1)_122
+  - first:
+      213: 2234542745052202547
+    second: demotilesetdemo (1)_123
+  - first:
+      213: 2828756498105450764
+    second: demotilesetdemo (1)_124
+  - first:
+      213: 8849022056230342977
+    second: demotilesetdemo (1)_125
+  - first:
+      213: -5146459823097279398
+    second: demotilesetdemo (1)_126
+  - first:
+      213: 6811968672181195099
+    second: demotilesetdemo (1)_127
+  - first:
+      213: 2329275660393419353
+    second: demotilesetdemo (1)_128
+  - first:
+      213: -3940100757108387975
+    second: demotilesetdemo (1)_129
+  - first:
+      213: 6521135693670884909
+    second: demotilesetdemo (1)_130
+  - first:
+      213: -6845113409316852299
+    second: demotilesetdemo (1)_131
+  - first:
+      213: -4156280759281964116
+    second: demotilesetdemo (1)_132
+  - first:
+      213: -4952016207144055466
+    second: demotilesetdemo (1)_133
+  - first:
+      213: -7919319952834993958
+    second: demotilesetdemo (1)_134
+  - first:
+      213: 1741497977114869070
+    second: demotilesetdemo (1)_135
+  - first:
+      213: 2556615665488615098
+    second: demotilesetdemo (1)_136
+  - first:
+      213: 111575645932613406
+    second: demotilesetdemo (1)_137
+  - first:
+      213: 5124060008764885340
+    second: demotilesetdemo (1)_138
+  - first:
+      213: 2486538891102803190
+    second: demotilesetdemo (1)_139
+  - first:
+      213: 7379552235095884083
+    second: demotilesetdemo (1)_140
+  - first:
+      213: -1121759120107178381
+    second: demotilesetdemo (1)_141
+  - first:
+      213: -4556895272933858398
+    second: demotilesetdemo (1)_142
+  - first:
+      213: 5709474883809633012
+    second: demotilesetdemo (1)_143
+  - first:
+      213: -2084931262402782084
+    second: demotilesetdemo (1)_144
+  - first:
+      213: 8604960177643164541
+    second: demotilesetdemo (1)_145
+  - first:
+      213: -5698225567553716649
+    second: demotilesetdemo (1)_146
+  - first:
+      213: -6601313059627122359
+    second: demotilesetdemo (1)_147
+  - first:
+      213: -5539958204651708547
+    second: demotilesetdemo (1)_148
+  - first:
+      213: 1244715538924860382
+    second: demotilesetdemo (1)_149
+  - first:
+      213: 8029696453213559472
+    second: demotilesetdemo (1)_150
+  - first:
+      213: 6983305082207761223
+    second: demotilesetdemo (1)_151
+  - first:
+      213: -7533408796696670633
+    second: demotilesetdemo (1)_152
+  - first:
+      213: 2456872464225053986
+    second: demotilesetdemo (1)_153
+  - first:
+      213: 6224070465193514671
+    second: demotilesetdemo (1)_154
+  - first:
+      213: 3273297268327425260
+    second: demotilesetdemo (1)_155
+  - first:
+      213: -2381677947311541290
+    second: demotilesetdemo (1)_156
+  - first:
+      213: -1003860465289527453
+    second: demotilesetdemo (1)_157
+  - first:
+      213: 2393449396020915960
+    second: demotilesetdemo (1)_158
+  - first:
+      213: 6897969627476419699
+    second: demotilesetdemo (1)_159
+  - first:
+      213: 5101617601255256133
+    second: demotilesetdemo (1)_160
+  - first:
+      213: -450929514947546952
+    second: demotilesetdemo (1)_161
+  - first:
+      213: -698129881535225919
+    second: demotilesetdemo (1)_162
+  - first:
+      213: -4400352358989918443
+    second: demotilesetdemo (1)_163
+  - first:
+      213: 3385109150711816122
+    second: demotilesetdemo (1)_164
+  - first:
+      213: 4338155524426929954
+    second: demotilesetdemo (1)_165
+  - first:
+      213: -750987953766851357
+    second: demotilesetdemo (1)_166
+  - first:
+      213: -6240144293242746948
+    second: demotilesetdemo (1)_167
+  - first:
+      213: 8482955232395306459
+    second: demotilesetdemo (1)_168
+  - first:
+      213: -6711705754005776092
+    second: demotilesetdemo (1)_169
+  - first:
+      213: -2588464499929441505
+    second: demotilesetdemo (1)_170
+  - first:
+      213: 5944857396604466160
+    second: demotilesetdemo (1)_171
+  - first:
+      213: 2814312159102168109
+    second: demotilesetdemo (1)_172
+  - first:
+      213: 3145336723928791139
+    second: demotilesetdemo (1)_173
+  - first:
+      213: -2758759966262419228
+    second: demotilesetdemo (1)_174
+  - first:
+      213: 915514209976021786
+    second: demotilesetdemo (1)_175
+  - first:
+      213: -1346680035173403099
+    second: demotilesetdemo (1)_176
+  - first:
+      213: 3194744674480668059
+    second: demotilesetdemo (1)_177
+  - first:
+      213: 5684881851837362067
+    second: demotilesetdemo (1)_178
+  - first:
+      213: -1146022568435530590
+    second: demotilesetdemo (1)_179
+  - first:
+      213: -4174497778432562701
+    second: demotilesetdemo (1)_180
+  - first:
+      213: -9183017654227997116
+    second: demotilesetdemo (1)_181
+  - first:
+      213: -1635423929341226437
+    second: demotilesetdemo (1)_182
+  - first:
+      213: -1939302549982444538
+    second: demotilesetdemo (1)_183
+  - first:
+      213: 3676521039948014145
+    second: demotilesetdemo (1)_184
+  - first:
+      213: 6340854596317469142
+    second: demotilesetdemo (1)_185
+  - first:
+      213: -3024282862832644994
+    second: demotilesetdemo (1)_186
+  - first:
+      213: 8080104856532856812
+    second: demotilesetdemo (1)_187
+  - first:
+      213: 2805810911883423102
+    second: demotilesetdemo (1)_188
+  - first:
+      213: -4566183577163190438
+    second: demotilesetdemo (1)_189
+  - first:
+      213: -3194170778735656392
+    second: demotilesetdemo (1)_190
+  - first:
+      213: -6920785078327894338
+    second: demotilesetdemo (1)_191
+  - first:
+      213: 9155389498012017422
+    second: demotilesetdemo (1)_192
+  - first:
+      213: -8085688663900718628
+    second: demotilesetdemo (1)_193
+  - first:
+      213: 794430486273040320
+    second: demotilesetdemo (1)_194
+  - first:
+      213: -2032548473803046098
+    second: demotilesetdemo (1)_195
+  - first:
+      213: 5554682737523983507
+    second: demotilesetdemo (1)_196
+  - first:
+      213: -2232613916478880227
+    second: demotilesetdemo (1)_197
+  - first:
+      213: -710494258520273496
+    second: demotilesetdemo (1)_198
+  - first:
+      213: 2874319009414390600
+    second: demotilesetdemo (1)_199
+  - first:
+      213: -5949427240000883044
+    second: demotilesetdemo (1)_200
+  - first:
+      213: -6574210310367060677
+    second: demotilesetdemo (1)_201
+  - first:
+      213: 3523006837768521126
+    second: demotilesetdemo (1)_202
+  - first:
+      213: 6985011437929811110
+    second: demotilesetdemo (1)_203
+  - first:
+      213: -4850761457024403804
+    second: demotilesetdemo (1)_204
+  - first:
+      213: -3011797218081356870
+    second: demotilesetdemo (1)_205
+  - first:
+      213: 5381169322754382590
+    second: demotilesetdemo (1)_206
+  - first:
+      213: -5645402789167475528
+    second: demotilesetdemo (1)_207
+  - first:
+      213: 6254646670724497294
+    second: demotilesetdemo (1)_208
+  - first:
+      213: -191484828908898111
+    second: demotilesetdemo (1)_209
+  - first:
+      213: 5643554756845351951
+    second: demotilesetdemo (1)_210
+  - first:
+      213: -3555416872623665906
+    second: demotilesetdemo (1)_211
+  - first:
+      213: -4391877351808670533
+    second: demotilesetdemo (1)_212
+  - first:
+      213: -7936414084777681082
+    second: demotilesetdemo (1)_213
+  - first:
+      213: 6895376783186550893
+    second: demotilesetdemo (1)_214
+  - first:
+      213: 384176766954720666
+    second: demotilesetdemo (1)_215
+  - first:
+      213: -8621545467420189713
+    second: demotilesetdemo (1)_216
+  - first:
+      213: 8475991733387388688
+    second: demotilesetdemo (1)_217
+  - first:
+      213: -5599988756058081692
+    second: demotilesetdemo (1)_218
+  - first:
+      213: -8694815172509885080
+    second: demotilesetdemo (1)_219
+  - first:
+      213: 4296360403593644140
+    second: demotilesetdemo (1)_220
+  - first:
+      213: -5303786388394158191
+    second: demotilesetdemo (1)_221
+  - first:
+      213: 6552917746083811230
+    second: demotilesetdemo (1)_222
+  - first:
+      213: 3950203170297529299
+    second: demotilesetdemo (1)_223
+  - first:
+      213: 723904104633051008
+    second: demotilesetdemo (1)_224
+  - first:
+      213: 8135575577252787579
+    second: demotilesetdemo (1)_225
+  - first:
+      213: -4910974702127520432
+    second: demotilesetdemo (1)_226
+  - first:
+      213: -3216993425842358655
+    second: demotilesetdemo (1)_227
+  - first:
+      213: -4795668158925121837
+    second: demotilesetdemo (1)_228
+  - first:
+      213: -6373922318967125595
+    second: demotilesetdemo (1)_229
+  - first:
+      213: 5615835018371058605
+    second: demotilesetdemo (1)_230
+  - first:
+      213: -3890635468244409585
+    second: demotilesetdemo (1)_231
+  - first:
+      213: -917713209436775709
+    second: demotilesetdemo (1)_232
+  - first:
+      213: -5072446187779536074
+    second: demotilesetdemo (1)_233
+  - first:
+      213: 693825338609457479
+    second: demotilesetdemo (1)_234
+  - first:
+      213: 4681705739567540107
+    second: demotilesetdemo (1)_235
+  - first:
+      213: -6729146178057507710
+    second: demotilesetdemo (1)_236
+  - first:
+      213: 6876104928291672381
+    second: demotilesetdemo (1)_237
+  - first:
+      213: -6238103051696109694
+    second: demotilesetdemo (1)_238
+  - first:
+      213: -5144385673656303193
+    second: demotilesetdemo (1)_239
+  - first:
+      213: 413417403557546317
+    second: demotilesetdemo (1)_240
+  - first:
+      213: 4458713068298993021
+    second: demotilesetdemo (1)_241
+  - first:
+      213: -8042999016886636952
+    second: demotilesetdemo (1)_242
+  - first:
+      213: 5331513784919405564
+    second: demotilesetdemo (1)_243
+  - first:
+      213: 1226742767513337547
+    second: demotilesetdemo (1)_244
+  - first:
+      213: 4191659417001812002
+    second: demotilesetdemo (1)_245
+  - first:
+      213: 4281102896250869859
+    second: demotilesetdemo (1)_246
+  - first:
+      213: 5247854719612640273
+    second: demotilesetdemo (1)_247
+  - first:
+      213: 6549612032146297190
+    second: demotilesetdemo (1)_248
+  - first:
+      213: 3432276966253631673
+    second: demotilesetdemo (1)_249
+  - first:
+      213: 4664244247505431794
+    second: demotilesetdemo (1)_250
+  - first:
+      213: 6769911028113794850
+    second: demotilesetdemo (1)_251
+  - first:
+      213: -5338286612974284442
+    second: demotilesetdemo (1)_252
+  - first:
+      213: 2049735789646981627
+    second: demotilesetdemo (1)_253
+  - first:
+      213: 6760493308114432813
+    second: demotilesetdemo (1)_254
+  - first:
+      213: 1663759099924247655
+    second: demotilesetdemo (1)_255
+  - first:
+      213: 2231480618768155628
+    second: demotilesetdemo (1)_256
+  - first:
+      213: -4971131128365908891
+    second: demotilesetdemo (1)_257
+  - first:
+      213: 4205761478187841041
+    second: demotilesetdemo (1)_258
+  - first:
+      213: -8742542242390377832
+    second: demotilesetdemo (1)_259
+  - first:
+      213: 8635670652117355997
+    second: demotilesetdemo (1)_260
+  - first:
+      213: 5422122499653580235
+    second: demotilesetdemo (1)_261
+  - first:
+      213: 1952851451333571662
+    second: demotilesetdemo (1)_262
+  - first:
+      213: 4307582276656710100
+    second: demotilesetdemo (1)_263
+  - first:
+      213: -347819972575059666
+    second: demotilesetdemo (1)_264
+  - first:
+      213: 3312600458616059135
+    second: demotilesetdemo (1)_265
+  - first:
+      213: 8153510320743652720
+    second: demotilesetdemo (1)_266
+  - first:
+      213: 6951401208393488205
+    second: demotilesetdemo (1)_267
+  - first:
+      213: 241612695903356669
+    second: demotilesetdemo (1)_268
+  - first:
+      213: 5194104176030391737
+    second: demotilesetdemo (1)_269
+  - first:
+      213: 2610214375649908122
+    second: demotilesetdemo (1)_270
+  - first:
+      213: -2860036389271952023
+    second: demotilesetdemo (1)_271
+  - first:
+      213: 6377035565891256921
+    second: demotilesetdemo (1)_272
+  - first:
+      213: 7783312823499031465
+    second: demotilesetdemo (1)_273
+  - first:
+      213: -1964335412949757962
+    second: demotilesetdemo (1)_274
+  - first:
+      213: 7886276937841081390
+    second: demotilesetdemo (1)_275
+  - first:
+      213: -645572696844381685
+    second: demotilesetdemo (1)_276
+  - first:
+      213: -488019484866209202
+    second: demotilesetdemo (1)_277
+  - first:
+      213: -5582161602154783531
+    second: demotilesetdemo (1)_278
+  - first:
+      213: 5501262914203746813
+    second: demotilesetdemo (1)_279
+  - first:
+      213: 3009821550261298969
+    second: demotilesetdemo (1)_280
+  - first:
+      213: 2537393915592057626
+    second: demotilesetdemo (1)_281
+  - first:
+      213: 865788510034098518
+    second: demotilesetdemo (1)_282
+  - first:
+      213: -8549547731333620999
+    second: demotilesetdemo (1)_283
+  - first:
+      213: -4071533587348297230
+    second: demotilesetdemo (1)_284
+  - first:
+      213: 3970096748502013514
+    second: demotilesetdemo (1)_285
+  - first:
+      213: 1522991842786287864
+    second: demotilesetdemo (1)_286
+  - first:
+      213: 8231887626017763828
+    second: demotilesetdemo (1)_287
+  - first:
+      213: 3704846137540920629
+    second: demotilesetdemo (1)_288
+  - first:
+      213: 6234879953163533863
+    second: demotilesetdemo (1)_289
+  - first:
+      213: -1377674585875304855
+    second: demotilesetdemo (1)_290
+  - first:
+      213: 4339685053675728040
+    second: demotilesetdemo (1)_291
+  - first:
+      213: -1621513919679695069
+    second: demotilesetdemo (1)_292
+  - first:
+      213: -5401269551819690158
+    second: demotilesetdemo (1)_293
+  - first:
+      213: -6999286081244973777
+    second: demotilesetdemo (1)_294
+  - first:
+      213: 3844850020794892381
+    second: demotilesetdemo (1)_295
+  - first:
+      213: -2661147854921110711
+    second: demotilesetdemo (1)_296
+  - first:
+      213: 4501845479237910811
+    second: demotilesetdemo (1)_297
+  - first:
+      213: 5986229796564908480
+    second: demotilesetdemo (1)_298
+  - first:
+      213: -1062075764649517258
+    second: demotilesetdemo (1)_299
+  - first:
+      213: 4632314652542926469
+    second: demotilesetdemo (1)_300
+  - first:
+      213: -5723489119016627694
+    second: demotilesetdemo (1)_301
+  - first:
+      213: 6675846461401149820
+    second: demotilesetdemo (1)_302
+  - first:
+      213: 5406298893646359519
+    second: demotilesetdemo (1)_303
+  - first:
+      213: 1363562974457733022
+    second: demotilesetdemo (1)_304
+  - first:
+      213: -5767468949131200364
+    second: demotilesetdemo (1)_305
+  - first:
+      213: 503888755542699203
+    second: demotilesetdemo (1)_306
+  - first:
+      213: -7896257871938582001
+    second: demotilesetdemo (1)_307
+  - first:
+      213: 7197958258066276929
+    second: demotilesetdemo (1)_308
+  - first:
+      213: 5154700100346926347
+    second: demotilesetdemo (1)_309
+  - first:
+      213: -7605732694008094683
+    second: demotilesetdemo (1)_310
+  - first:
+      213: -7668406521495758960
+    second: demotilesetdemo (1)_311
+  - first:
+      213: 3729651642531206732
+    second: demotilesetdemo (1)_312
+  - first:
+      213: 1715587763750450693
+    second: demotilesetdemo (1)_313
+  - first:
+      213: 3990357163092349777
+    second: demotilesetdemo (1)_314
+  - first:
+      213: 8408618826162609374
+    second: demotilesetdemo (1)_315
+  - first:
+      213: 1330798502150718931
+    second: demotilesetdemo (1)_316
+  - first:
+      213: 7046598552160070790
+    second: demotilesetdemo (1)_317
+  - first:
+      213: 1571577661440515807
+    second: demotilesetdemo (1)_318
+  - first:
+      213: 1918948149939228135
+    second: demotilesetdemo (1)_319
+  - first:
+      213: 8874459359277106660
+    second: demotilesetdemo (1)_320
+  - first:
+      213: -6831791154953526679
+    second: demotilesetdemo (1)_321
+  - first:
+      213: 2994276570728607446
+    second: demotilesetdemo (1)_322
+  - first:
+      213: -889158376804320453
+    second: demotilesetdemo (1)_323
+  - first:
+      213: -5183756655052090173
+    second: demotilesetdemo (1)_324
+  - first:
+      213: -3276804264917924808
+    second: demotilesetdemo (1)_325
+  - first:
+      213: 5175322901783674429
+    second: demotilesetdemo (1)_326
+  - first:
+      213: 3146980300405069364
+    second: demotilesetdemo (1)_327
+  - first:
+      213: -8671005512577828666
+    second: demotilesetdemo (1)_328
+  - first:
+      213: -6211685435284192297
+    second: demotilesetdemo (1)_329
+  - first:
+      213: -8330352311300921954
+    second: demotilesetdemo (1)_330
+  - first:
+      213: 5712909106762339458
+    second: demotilesetdemo (1)_331
+  - first:
+      213: -144823619573955159
+    second: demotilesetdemo (1)_332
+  - first:
+      213: 1309223020713222884
+    second: demotilesetdemo (1)_333
+  - first:
+      213: 682472110818211857
+    second: demotilesetdemo (1)_334
+  - first:
+      213: -7914698498551594252
+    second: demotilesetdemo (1)_335
+  - first:
+      213: -6830223337969640900
+    second: demotilesetdemo (1)_336
+  - first:
+      213: -4001334610583942516
+    second: demotilesetdemo (1)_337
+  - first:
+      213: -2252973188140115747
+    second: demotilesetdemo (1)_338
+  - first:
+      213: -5581731055787240732
+    second: demotilesetdemo (1)_339
+  - first:
+      213: -1629222814617840640
+    second: demotilesetdemo (1)_340
+  - first:
+      213: 4155058013410612790
+    second: demotilesetdemo (1)_341
+  - first:
+      213: -7363764619630459790
+    second: demotilesetdemo (1)_342
+  - first:
+      213: -8620382263214167846
+    second: demotilesetdemo (1)_343
+  - first:
+      213: 2565020615367015847
+    second: demotilesetdemo (1)_344
+  - first:
+      213: 6481661613521043705
+    second: demotilesetdemo (1)_345
+  - first:
+      213: 1072814719149717285
+    second: demotilesetdemo (1)_346
+  - first:
+      213: -769992831301603153
+    second: demotilesetdemo (1)_347
+  - first:
+      213: 7437393188842347088
+    second: demotilesetdemo (1)_348
+  - first:
+      213: 931049754460314750
+    second: demotilesetdemo (1)_349
+  - first:
+      213: -3439774858881822494
+    second: demotilesetdemo (1)_350
+  - first:
+      213: -7295670489849537809
+    second: demotilesetdemo (1)_351
+  - first:
+      213: 1037980401873820988
+    second: demotilesetdemo (1)_352
+  - first:
+      213: 8640252418064427175
+    second: demotilesetdemo (1)_353
+  - first:
+      213: -4078615060010123522
+    second: demotilesetdemo (1)_354
+  - first:
+      213: -9095476982647547247
+    second: demotilesetdemo (1)_355
+  - first:
+      213: 4875991083695441787
+    second: demotilesetdemo (1)_356
+  - first:
+      213: -2575225615674565397
+    second: demotilesetdemo (1)_357
+  - first:
+      213: -549910840972843416
+    second: demotilesetdemo (1)_358
+  - first:
+      213: -5656117416191286580
+    second: demotilesetdemo (1)_359
+  - first:
+      213: -6882913282775068467
+    second: demotilesetdemo (1)_360
+  - first:
+      213: -2923428805328404553
+    second: demotilesetdemo (1)_361
+  - first:
+      213: -1803441974563527949
+    second: demotilesetdemo (1)_362
+  - first:
+      213: -6900354692953656669
+    second: demotilesetdemo (1)_363
+  - first:
+      213: -6617595832712862327
+    second: demotilesetdemo (1)_364
+  - first:
+      213: -8578768446362471406
+    second: demotilesetdemo (1)_365
+  - first:
+      213: 5274803137301668662
+    second: demotilesetdemo (1)_366
+  - first:
+      213: 6768386049096681381
+    second: demotilesetdemo (1)_367
+  - first:
+      213: 2822316564770378262
+    second: demotilesetdemo (1)_368
+  - first:
+      213: 7058513768754629550
+    second: demotilesetdemo (1)_369
+  - first:
+      213: 888156024412467516
+    second: demotilesetdemo (1)_370
+  - first:
+      213: -4361442222233128104
+    second: demotilesetdemo (1)_371
+  - first:
+      213: 7158523418169519465
+    second: demotilesetdemo (1)_372
+  - first:
+      213: -214529721391057008
+    second: demotilesetdemo (1)_373
+  - first:
+      213: 1710257204253337349
+    second: demotilesetdemo (1)_374
+  - first:
+      213: -6888368024730407484
+    second: demotilesetdemo (1)_375
+  - first:
+      213: -3687779752086614393
+    second: demotilesetdemo (1)_376
+  - first:
+      213: 2571098667686707123
+    second: demotilesetdemo (1)_377
+  - first:
+      213: -5539578976668773390
+    second: demotilesetdemo (1)_378
+  - first:
+      213: -3524476020735111455
+    second: demotilesetdemo (1)_379
+  - first:
+      213: 551214336118874341
+    second: demotilesetdemo (1)_380
+  - first:
+      213: -579165931627455078
+    second: demotilesetdemo (1)_381
+  - first:
+      213: 5799767883727128508
+    second: demotilesetdemo (1)_382
+  - first:
+      213: -8921616673826458964
+    second: demotilesetdemo (1)_383
+  - first:
+      213: 1779803283756534594
+    second: demotilesetdemo (1)_384
+  - first:
+      213: -2152742728599173811
+    second: demotilesetdemo (1)_385
+  - first:
+      213: 643753062328622302
+    second: demotilesetdemo (1)_386
+  - first:
+      213: 860450928254994438
+    second: demotilesetdemo (1)_387
+  - first:
+      213: -7707718204777221904
+    second: demotilesetdemo (1)_388
+  - first:
+      213: 3494850361037256972
+    second: demotilesetdemo (1)_389
+  - first:
+      213: -2487484938427824172
+    second: demotilesetdemo (1)_390
+  - first:
+      213: -975910318540647088
+    second: demotilesetdemo (1)_391
+  - first:
+      213: -437492795747196971
+    second: demotilesetdemo (1)_392
+  - first:
+      213: -9124210693861722809
+    second: demotilesetdemo (1)_393
+  - first:
+      213: -83867654426053710
+    second: demotilesetdemo (1)_394
+  - first:
+      213: 3677959041215940463
+    second: demotilesetdemo (1)_395
+  - first:
+      213: -961192142552493930
+    second: demotilesetdemo (1)_396
+  - first:
+      213: -1588167738796080395
+    second: demotilesetdemo (1)_397
+  - first:
+      213: 2697877575472538917
+    second: demotilesetdemo (1)_398
+  - first:
+      213: -5097535431993743309
+    second: demotilesetdemo (1)_399
+  - first:
+      213: -7436489376039070628
+    second: demotilesetdemo (1)_400
+  - first:
+      213: 3364788499290496719
+    second: demotilesetdemo (1)_401
+  - first:
+      213: 8298153855074218910
+    second: demotilesetdemo (1)_402
+  - first:
+      213: -791165253650841141
+    second: demotilesetdemo (1)_403
+  - first:
+      213: 8321406809846938647
+    second: demotilesetdemo (1)_404
+  - first:
+      213: -894811158872929144
+    second: demotilesetdemo (1)_405
+  - first:
+      213: -3672985571516501516
+    second: demotilesetdemo (1)_406
+  - first:
+      213: -45541683219423955
+    second: demotilesetdemo (1)_407
+  - first:
+      213: -2207174958788579794
+    second: demotilesetdemo (1)_408
+  - first:
+      213: 2976612182460533948
+    second: demotilesetdemo (1)_409
+  - first:
+      213: -6034175821425804204
+    second: demotilesetdemo (1)_410
+  - first:
+      213: 6873970867485389945
+    second: demotilesetdemo (1)_411
+  - first:
+      213: 270698689890155132
+    second: demotilesetdemo (1)_412
+  - first:
+      213: 3561242872252181531
+    second: demotilesetdemo (1)_413
+  - first:
+      213: -8341270828664099420
+    second: demotilesetdemo (1)_414
+  - first:
+      213: -9213523868065670792
+    second: demotilesetdemo (1)_415
+  - first:
+      213: -9054258034152853822
+    second: demotilesetdemo (1)_416
+  - first:
+      213: -6560455645925326358
+    second: demotilesetdemo (1)_417
+  - first:
+      213: -4115546139146365732
+    second: demotilesetdemo (1)_418
+  - first:
+      213: 7723911491627495364
+    second: demotilesetdemo (1)_419
+  - first:
+      213: 5522866162144184511
+    second: demotilesetdemo (1)_420
+  - first:
+      213: -8395241759694920631
+    second: demotilesetdemo (1)_421
+  - first:
+      213: 3485097584915732241
+    second: demotilesetdemo (1)_422
+  - first:
+      213: -2261847261317132613
+    second: demotilesetdemo (1)_423
+  - first:
+      213: 8014352201652199490
+    second: demotilesetdemo (1)_424
+  - first:
+      213: 8562689128846076175
+    second: demotilesetdemo (1)_425
+  - first:
+      213: -6163795914040754956
+    second: demotilesetdemo (1)_426
+  - first:
+      213: -1589514156035341642
+    second: demotilesetdemo (1)_427
+  - first:
+      213: -5604191175526469020
+    second: demotilesetdemo (1)_428
+  - first:
+      213: 7159225723735757834
+    second: demotilesetdemo (1)_429
+  - first:
+      213: 3871700756066499452
+    second: demotilesetdemo (1)_430
+  - first:
+      213: -8590852743423736969
+    second: demotilesetdemo (1)_431
+  - first:
+      213: 1314281368804071424
+    second: demotilesetdemo (1)_432
+  - first:
+      213: -3617037182806566031
+    second: demotilesetdemo (1)_433
+  - first:
+      213: -5388105899177981269
+    second: demotilesetdemo (1)_434
+  - first:
+      213: -5621090706115683210
+    second: demotilesetdemo (1)_435
+  - first:
+      213: -893782404848045397
+    second: demotilesetdemo (1)_436
+  - first:
+      213: -8104992926591096675
+    second: demotilesetdemo (1)_437
+  - first:
+      213: -5937507310913532967
+    second: demotilesetdemo (1)_438
+  - first:
+      213: 5465688863809520516
+    second: demotilesetdemo (1)_439
+  - first:
+      213: 3969587965134171429
+    second: demotilesetdemo (1)_440
+  - first:
+      213: 2295589224958145732
+    second: demotilesetdemo (1)_441
+  - first:
+      213: 7638803360742650127
+    second: demotilesetdemo (1)_442
+  - first:
+      213: -272383212940412867
+    second: demotilesetdemo (1)_443
+  - first:
+      213: 3895099104838610362
+    second: demotilesetdemo (1)_444
+  - first:
+      213: -7333222211168357929
+    second: demotilesetdemo (1)_445
+  - first:
+      213: -6817023812027667128
+    second: demotilesetdemo (1)_446
+  - first:
+      213: -1894921635104063040
+    second: demotilesetdemo (1)_447
+  - first:
+      213: 6362616049442951208
+    second: demotilesetdemo (1)_448
+  - first:
+      213: -2900861824858825797
+    second: demotilesetdemo (1)_449
+  - first:
+      213: -1408047130778971720
+    second: demotilesetdemo (1)_450
+  - first:
+      213: -5623865424141147597
+    second: demotilesetdemo (1)_451
+  - first:
+      213: 6965125590003181511
+    second: demotilesetdemo (1)_452
+  - first:
+      213: -8081671191370770398
+    second: demotilesetdemo (1)_453
+  - first:
+      213: -4349595475936013258
+    second: demotilesetdemo (1)_454
+  - first:
+      213: 4075452536916675000
+    second: demotilesetdemo (1)_455
+  - first:
+      213: -4310057473855090225
+    second: demotilesetdemo (1)_456
+  - first:
+      213: -1395756774817823362
+    second: demotilesetdemo (1)_457
+  - first:
+      213: -5842332430083830347
+    second: demotilesetdemo (1)_458
+  - first:
+      213: 6165052673568364202
+    second: demotilesetdemo (1)_459
+  - first:
+      213: -2162225869658194764
+    second: demotilesetdemo (1)_460
+  - first:
+      213: -2041280446452501080
+    second: demotilesetdemo (1)_461
+  - first:
+      213: 3609199321441799331
+    second: demotilesetdemo (1)_462
+  - first:
+      213: -781376803365493265
+    second: demotilesetdemo (1)_463
+  - first:
+      213: 1613643532405820043
+    second: demotilesetdemo (1)_464
+  - first:
+      213: -1539588678319657320
+    second: demotilesetdemo (1)_465
+  - first:
+      213: 3534819308460223130
+    second: demotilesetdemo (1)_466
+  - first:
+      213: 3750663459707725242
+    second: demotilesetdemo (1)_467
+  - first:
+      213: -3175890502487195217
+    second: demotilesetdemo (1)_468
+  - first:
+      213: -5466371458133317964
+    second: demotilesetdemo (1)_469
+  - first:
+      213: -7396835030790659852
+    second: demotilesetdemo (1)_470
+  - first:
+      213: 3100515171793841803
+    second: demotilesetdemo (1)_471
+  - first:
+      213: 4215225205977306656
+    second: demotilesetdemo (1)_472
+  - first:
+      213: 3017117031372768402
+    second: demotilesetdemo (1)_473
+  - first:
+      213: -4193354387161366568
+    second: demotilesetdemo (1)_474
+  - first:
+      213: -3299018720890916014
+    second: demotilesetdemo (1)_475
+  - first:
+      213: -1577529838094652615
+    second: demotilesetdemo (1)_476
+  - first:
+      213: -3869875398272996040
+    second: demotilesetdemo (1)_477
+  - first:
+      213: 1730989130255835592
+    second: demotilesetdemo (1)_478
+  - first:
+      213: 7379454632933088080
+    second: demotilesetdemo (1)_479
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed1a297dc571080800000000000000
+      internalID: -9216796031442625015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc78d5a3b0e2680800000000000000
+      internalID: -8778066278393328706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0676a268a2a7ae10800000000000000
+      internalID: 2208912986341799439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ded019aa53784b0800000000000000
+      internalID: -5438319018332263090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1437663a47c78e50800000000000000
+      internalID: 6811632082975405083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c5ef4968c1e940800000000000000
+      internalID: 5323756589166215927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7641981dc6a9e0800000000000000
+      internalID: -1610374311338148029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9d03070afa45e0800000000000000
+      internalID: -1924450982724527393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa37aecef523160800000000000000
+      internalID: 7003765841664912087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e0ec652c54c7f0800000000000000
+      internalID: -593247935095838854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f34dbc736fe350800000000000000
+      internalID: 6048162211984308167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5f2466712dc2c0800000000000000
+      internalID: -4409831667755164035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9665cafe6319f0800000000000000
+      internalID: -498933110375277710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813e0de7586e2380800000000000000
+      internalID: -8994136678963727996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c07cde86106f80800000000000000
+      internalID: -8115461725682089189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846939ef728cd3d60800000000000000
+      internalID: 7871667797813859912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037b8bd3ea5c7a90800000000000000
+      internalID: -7314871760069102848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c0f7cb59c7b0d0800000000000000
+      internalID: -3407033197048839305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d052ccb56c08f2ef0800000000000000
+      internalID: -130744274738469619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c823ede9ba9d7d960800000000000000
+      internalID: 7626803825103221388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246d23890cc6c3c0800000000000000
+      internalID: -4339556849697332179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1cb186a5bd2d90800000000000000
+      internalID: -7120835709057098803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5494bfa7b97a78740800000000000000
+      internalID: 5154272584773880133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f6b4d2819b7c10800000000000000
+      internalID: 2052394046297929679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccd37f75cd66bac0800000000000000
+      internalID: -3839760937272484672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0551a85fb63450800000000000000
+      internalID: 6068247935313054688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672a5b7da0a3a1c0800000000000000
+      internalID: -4493571336226330772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47974fc6f1139d140800000000000000
+      internalID: 4744877693453236596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d7ffe7ff537630800000000000000
+      internalID: 3923585218857391005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54aaeb6e89e37380800000000000000
+      internalID: -8974572834514099106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f624152527c2fa420800000000000000
+      internalID: 2643380375808721519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad5be074e2194360800000000000000
+      internalID: 7154270255411060141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e4e8bd5349fe80800000000000000
+      internalID: -8144404381309803822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab531e86c3dec1a90800000000000000
+      internalID: -7341732448807340614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0bdf32b8c2da30800000000000000
+      internalID: 4238670867210112258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3b486f4d8b0400800000000000000
+      internalID: 291481973087223806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81cf5069ed234290800000000000000
+      internalID: -7907426040364940918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a861df6a3c1b1e90800000000000000
+      internalID: -7054013354036074333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace801e7c83f55020800000000000000
+      internalID: 2330036166970085066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d512d79e403970800000000000000
+      internalID: 8732566091443065204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0ffe35e6b2fef0800000000000000
+      internalID: -75797147991208759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c608c6f0e99300800000000000000
+      internalID: 259485804072978266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd55d5378b13c490800000000000000
+      internalID: -7727302268099928629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783638b722ea7c4a0800000000000000
+      internalID: -6573093667999620217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e4c83fba3ba810800000000000000
+      internalID: 1777579070893384069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c81d89e65a71da90800000000000000
+      internalID: -7290911808032007996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a78e66d298dfa0800000000000000
+      internalID: -5775705072427621557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538996d000f99060800000000000000
+      internalID: 6960858585468863312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf443c8ad9ffe40800000000000000
+      internalID: 5692441802175741120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29787a94af1a23390800000000000000
+      internalID: -7840025904949000302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd4cc888a5358b0800000000000000
+      internalID: -5164684805140062913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5100b47a011c9c80800000000000000
+      internalID: -8314752075427741347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c92c0dbb48ce340800000000000000
+      internalID: 4894432837241052277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b673a2194d614e6b0800000000000000
+      internalID: -5268060561892296853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45adff1e3e68501f0800000000000000
+      internalID: -1079308222378026412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51e982aafa6e8470800000000000000
+      internalID: 8398767979793867102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635683dff5d8a4c20800000000000000
+      internalID: 3191518729355158838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d7f9e7facb8ee0800000000000000
+      internalID: -1257688504788854561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f1e4cc23f51f70800000000000000
+      internalID: 9157492790935023937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb53381059331c30800000000000000
+      internalID: 4328866682999364586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55538dbb293a3d990800000000000000
+      internalID: -7362361115208567467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a91127baac2e8b90800000000000000
+      internalID: -7237798439409346137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df22040de663bf90800000000000000
+      internalID: -6939089432687267880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad4f0f414e1d1c0800000000000000
+      internalID: -4480549375663875400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa3ab3353200650800000000000000
+      internalID: 6196991927651642029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d35163c163fc790800000000000000
+      internalID: -7507722559008981631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8034f468b30b460800000000000000
+      internalID: 7255364447735318717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730206b6d2fdfded0800000000000000
+      internalID: -2386943891315089353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb501ae08e5eaba0800000000000000
+      internalID: -6075814939500454966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee3fa7e778c1480800000000000000
+      internalID: -8927111384056730006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2102273b31f4f760800000000000000
+      internalID: 7490877316854317357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80aa02338fb35bb0800000000000000
+      internalID: -4948400995348864886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe3e2c48eb8be00800000000000000
+      internalID: 1060807189660429290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca54c71e9515a50f0800000000000000
+      internalID: -1127499310225930836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103d90c826305e70800000000000000
+      internalID: 9101834395573891091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5056ec98cc89d10800000000000000
+      internalID: 2132679315805242838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702bec1a9fd71520800000000000000
+      internalID: 2672850756870807672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf085133e532410800000000000000
+      internalID: 1451107078440549051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa36518316c3a20800000000000000
+      internalID: 3043414341700530118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f3670a59242af0800000000000000
+      internalID: -422166998418195981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfe715127dab3c0800000000000000
+      internalID: -4342922352544253016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c23389ffbf3420800000000000000
+      internalID: 2612017387267081279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b6771cec67daf80800000000000000
+      internalID: -8093682324933743759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641e36921f629c90800000000000000
+      internalID: -7164541931572292501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d2b950cb90a770800000000000000
+      internalID: 8620060937228046874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9313aa5dd701a0800000000000000
+      internalID: -6843257727413412176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a3021a5e83dc110800000000000000
+      internalID: 1282744027772369411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa9c7fb41f87480800000000000000
+      internalID: -8901099354915754217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca895f16efc623e60800000000000000
+      internalID: 7940528932828584108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9c48aa8f1af740800000000000000
+      internalID: 5186492601260088983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d6bd12d345b640800000000000000
+      internalID: 5095053123160298542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a489a476bc28f140800000000000000
+      internalID: 4753598568842495143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e3cb8b94408a70800000000000000
+      internalID: 8827130704501662565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe1b97e2ed95080800000000000000
+      internalID: -9198076472735962118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7a027ee6befc7e0800000000000000
+      internalID: -1742915669212485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e2845f5735ad50800000000000000
+      internalID: 6747860499263840715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4837c602fdb6091b0800000000000000
+      internalID: -5651898926284115068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b3a1f2ff7b5340800000000000000
+      internalID: 4853613704834691995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922282092297e2f0800000000000000
+      internalID: -943624892077432176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3b7a2d49d9e780800000000000000
+      internalID: -8653146283567269061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58d26041aea8760800000000000000
+      internalID: 7461033104416540071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b9a7c871642ba0800000000000000
+      internalID: -6114655222688534400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29117702bec886c0800000000000000
+      internalID: -4140832593342818004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37aa1bd10a296d0800000000000000
+      internalID: -2985147553597983836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdd3ffe99119c90800000000000000
+      internalID: -7164917361491976225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a71622b38f95b30800000000000000
+      internalID: 4276722254028569112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd24e017273689060800000000000000
+      internalID: 6960422567275283164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45288ff0bf2e8000800000000000000
+      internalID: 40021883940775244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eed5d37e2ab63f0800000000000000
+      internalID: -906451785934311898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867aaceb31d1fb910800000000000000
+      internalID: 1855233542142469992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3997a4c2305f210800000000000000
+      internalID: 1366001550739739585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33782595f88e41b0800000000000000
+      internalID: -5670444292462054593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c93c2e35fec980800000000000000
+      internalID: -8516600197932267553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3a57226d1b7f30800000000000000
+      internalID: 4574282153929096844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2388f2febd2eabc60800000000000000
+      internalID: 7834823936002983986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0777a38d5e14250800000000000000
+      internalID: 5927271301452886219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132611892b70539a0800000000000000
+      internalID: -6254084043897216463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a35cd5f433a4be0800000000000000
+      internalID: -1492323910551258600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3db727f47f25b980800000000000000
+      internalID: -8523854540319507138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e5b20b352beb00800000000000000
+      internalID: 858821089322985057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc5f07f423d2140800000000000000
+      internalID: 4696465303196257074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fde40079ce40880800000000000000
+      internalID: -8645525251355123916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5d1f96ea2d5580800000000000000
+      internalID: -8836859723830698758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336434a99c0b20f10800000000000000
+      internalID: 2234542745052202547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0147a13c03c14720800000000000000
+      internalID: 2828756498105450764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d43f0daa0eca70800000000000000
+      internalID: 8849022056230342977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8779de0a1498b0800000000000000
+      internalID: -5146459823097279398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51137e7a69f88e50800000000000000
+      internalID: 6811968672181195099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95296b14fdf335020800000000000000
+      internalID: 2329275660393419353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f8e49ac33f159c0800000000000000
+      internalID: -3940100757108387975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26af59ec5abf7a50800000000000000
+      internalID: 6521135693670884909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde7660f954101a0800000000000000
+      internalID: -6845113409316852299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab253c9bace156c0800000000000000
+      internalID: -4156280759281964116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d833b1f77e64bb0800000000000000
+      internalID: -4952016207144055466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06b94167ce81290800000000000000
+      internalID: -7919319952834993958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3efeee2b0b2810800000000000000
+      internalID: 1741497977114869070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6d5a8f66cea7320800000000000000
+      internalID: 2556615665488615098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe56575756c8100800000000000000
+      internalID: 111575645932613406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594736fd615c1740800000000000000
+      internalID: 5124060008764885340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4506c72f5f18220800000000000000
+      internalID: 2486538891102803190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3318456c8af696660800000000000000
+      internalID: 7379552235095884083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f47a0606be60f0800000000000000
+      internalID: -1121759120107178381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ee1a84e7a2c0c0800000000000000
+      internalID: -4556895272933858398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_143
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ec7f18212c3f40800000000000000
+      internalID: 5709474883809633012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c10633016d013e0800000000000000
+      internalID: -2084931262402782084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739dc6c0b5fa6770800000000000000
+      internalID: 8604960177643164541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e79eb6906dbe0b0800000000000000
+      internalID: -5698225567553716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94147cd5fbc6364a0800000000000000
+      internalID: -6601313059627122359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f59356d5d1e13b0800000000000000
+      internalID: -5539958204651708547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37608103e164110800000000000000
+      internalID: 1244715538924860382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba120c81663f6f60800000000000000
+      internalID: 8029696453213559472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437c2f19fea9e060800000000000000
+      internalID: 6983305082207761223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8715fc94f37790800000000000000
+      internalID: -7533408796696670633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da2983d70981220800000000000000
+      internalID: 2456872464225053986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa61cde8c17506650800000000000000
+      internalID: 6224070465193514671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a9ead5861d6d20800000000000000
+      internalID: 3273297268327425260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33d1d868492fed0800000000000000
+      internalID: -2381677947311541290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ffb5ab9329112f0800000000000000
+      internalID: -1003860465289527453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe23bd6b8d373120800000000000000
+      internalID: 2393449396020915960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746a2544d28abf50800000000000000
+      internalID: 6897969627476419699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54033b6cd269cc640800000000000000
+      internalID: 5101617601255256133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ffcacef9fdb9f0800000000000000
+      internalID: -450929514947546952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd104529ebf46f0800000000000000
+      internalID: -698129881535225919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f8ad3f7decee2c0800000000000000
+      internalID: -4400352358989918443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1a1666d25afe20800000000000000
+      internalID: 3385109150711816122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2279dd50779343c30800000000000000
+      internalID: 4338155524426929954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec11295f64f395f0800000000000000
+      internalID: -750987953766851357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c516b3dd8669a0800000000000000
+      internalID: -6240144293242746948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a678d6d289b570800000000000000
+      internalID: 8482955232395306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295a874d2b3bd2a0800000000000000
+      internalID: -6711705754005776092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1ff7604de31cd0800000000000000
+      internalID: -2588464499929441505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f376f41e40608250800000000000000
+      internalID: 5944857396604466160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce8527ff17e0720800000000000000
+      internalID: 2814312159102168109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36834c0f51b76ab20800000000000000
+      internalID: 3145336723928791139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e02c5e5d6ae6b9d0800000000000000
+      internalID: -2758759966262419228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137178c25f84bc00800000000000000
+      internalID: 915514209976021786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f06d94a1af4de0800000000000000
+      internalID: -1346680035173403099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dbd7eda53065c20800000000000000
+      internalID: 3194744674480668059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa4d8ace1c4ee40800000000000000
+      internalID: 5684881851837362067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demotilesetdemo (1)_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c1dfbb828810f0800000000000000
+      internalID: -1146022568435530590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19945e71d071d3b4abe9ce4e43ba2184
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
