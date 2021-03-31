@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/levels/5levelfive.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

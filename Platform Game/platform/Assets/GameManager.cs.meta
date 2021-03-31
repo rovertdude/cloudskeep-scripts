@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 70e07408259ba854fbda366dce15e34f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {instanceID: 0}
+  - player: {instanceID: 0}
+  - contactPoint: {instanceID: 0}
+  - theTemp: {instanceID: 0}
+  - textObject: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - TopScore: {instanceID: 0}
+  - pauseMenu: {fileID: 2106592900495618136, guid: 994bdca547179d54285babb7eb986c9e, type: 3}
+  - currentPause: {instanceID: 0}
+  - disabledLastSpot: {fileID: 2742270422592951319, guid: 4ecaec8f18c31484a866e3863cf27d5e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
